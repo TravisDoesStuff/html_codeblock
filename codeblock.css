@@ -1,0 +1,14 @@
+code {
+  background-color: #c2c9e0;
+  padding: 1px 5px;
+}
+
+codeblock {
+  font-family: monospace;
+  background-color: #c2c9e0;
+  padding: 0 15px;
+  display: block;
+  overflow-x: auto;
+  /* border: 1px solid #9097a2; */
+  margin: 5px 0;
+}
