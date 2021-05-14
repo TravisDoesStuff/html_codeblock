@@ -11,4 +11,13 @@ codeblock {
   overflow-x: auto;
   /* border: 1px solid #9097a2; */
   margin: 5px 0;
+  white-space: pre;
+}
+
+.keyword {
+  color: orangered;
+}
+
+.controlword {
+  color: indigo;
 }
